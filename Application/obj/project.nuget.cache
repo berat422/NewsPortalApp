@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "60OESvscINIyGTQ2AZtl3UMxGIfpNkAOsv8MNttrKV1rlb/aiQRfgXcndsLqUCgG8AIJyl/4Z+lJ7qEXwMPMqw==",
+  "dgSpecHash": "yYXBJDfVorGE26TBfSGF3uV6DkDT7hFgXzim1LmeEjqYJMG2Jcnc1guw2giasPXPm2SexiQ3zu6kq8re3fkp/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\NewsWebsite\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\NewsPortal\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",

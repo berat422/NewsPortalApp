@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eQ5ajB6sdLZqmc7BFEbRLDmkCZUXyDJhlJLSfsY8EWkkzMuUXPspDU/tB+e4kvUL6daO2kM3mjsOQxrGXpW8Hw==",
+  "dgSpecHash": "dLvhKhvyU7B1V3WGjS+eXCAJy7LM4g1uezWRWcAHeVte9G4mY3i2As9undc6CTvWuuoVuMVpxMZHMEAIdIauAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\NewsWebsite\\Portal\\Portal.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\NewsPortal\\Portal\\Portal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\autofac.aspnetcore.extensions\\2.0.15\\autofac.aspnetcore.extensions.2.0.15.nupkg.sha512",

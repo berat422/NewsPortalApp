@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7jTiYfKuFcGVq8wvmI2iIc0D28TLWSpqOK1CIUvXo6UJ0PI11B1CShV9qnXMXK+oPZ/WeW/fjWD+TEKSSWI3Pw==",
+  "dgSpecHash": "DuWu1R414+BsoI9eNwl9SgKSSatfI7ngpAoiAUovwbIPxU82rUaaaKRdQW4hGZ1srvIs17PiTWLMo3bCbmwY1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\NewsWebsite\\TaskRunner\\TaskRunner.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\NewsPortal\\TaskRunner\\TaskRunner.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",

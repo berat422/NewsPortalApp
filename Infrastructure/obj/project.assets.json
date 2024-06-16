@@ -6246,11 +6246,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\NewsWebsite\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\NewsPortal\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\HP\\Desktop\\NewsWebsite\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\NewsPortal\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\NewsWebsite\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\NewsPortal\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6267,8 +6267,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\NewsWebsite\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\NewsWebsite\\Core\\Core.csproj"
+            "C:\\Users\\HP\\Desktop\\NewsPortal\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\NewsPortal\\Core\\Core.csproj"
             }
           }
         }

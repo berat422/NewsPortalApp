@@ -986,11 +986,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\NewsWebsite\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\NewsPortal\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\HP\\Desktop\\NewsWebsite\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\NewsPortal\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\NewsWebsite\\Core\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\NewsPortal\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
